@@ -1,1 +1,2 @@
-Small jquery plugin to create a folder tree. Good for selecting object like folder, or even Active Directories
+- Small jquery plugin to create a folder tree. Good for selecting object like folder, or even Active Directories
+- Json source must be in the right format. Please view json.txt file to have more infor
